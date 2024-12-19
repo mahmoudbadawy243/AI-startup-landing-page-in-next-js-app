@@ -2,7 +2,7 @@
 import HeaderButton from "@/components/HeaderButton";
 import starimg from "../assets/stars.png";
 import { motion, useMotionTemplate, useMotionValue } from "framer-motion";
-import { useEffect, useRef } from "react";
+import { RefObject, useEffect, useRef } from "react";
 
 // --------------------------------------------------------------------------------------------------------------
 
